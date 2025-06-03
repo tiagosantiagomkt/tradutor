@@ -1,3 +1,3 @@
 fastapi
 uvicorn
-argos-translate
+git+https://github.com/argosopentech/argos-translate.git
